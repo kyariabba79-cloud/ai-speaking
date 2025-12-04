@@ -1,0 +1,7 @@
+{
+  "name": "Robert Tech Tool Voice",
+  "description": "AI-powered text-to-speech story narrator and script converter.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
